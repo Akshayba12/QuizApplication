@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "tittle": "PREDICT THE TOP LOSER(for tomorrow) across these indices",
+      "A": "NIFTY50 16000 -0.30%",
+      "B": "NIFTY50 17000 -0.30%",
+      "C": "NIFTY50 18000 -0.30%",
+      "Answer": "A",
+      "id": 1
+    },
+    {
+      "tittle": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "A": "largest railway station",
+      "B": " highest railway station",
+      "C": " None of the above",
+      "Answer": "A",
+      "id": 2
+    },
+    {
+      "tittle": "Garampani sanctuary is located at",
+      "A": "Junagarh, Gujarat",
+      "B": "Diphu, Assam",
+      "C": "Kohima, Nagaland",
+      "Answer": "B",
+      "id": 3
+    },
+    {
+      "tittle": "For which of the following disciplines is Nobel Prize awarded?",
+      "A": "Physics and Chemistry",
+      "B": "Physiology or Medicine",
+      "C": "All of the above",
+      "Answer": "C",
+      "id": 4
+    },
+    {
+      "tittle": "What is part of a database that holds only one type of information?",
+      "A": "Report",
+      "B": "Field",
+      "C": "Record",
+      "Answer": "B",
+      "id": 5
+    }
+  ]
+}
